@@ -1,0 +1,17 @@
+# Libraries Used:
+pyttsx3, datetime, speech_recognition, wikipedia, smtplib, 
+webbrowser, psutil, pyjokes, os, pyautogui, random, json, 
+requests, urlopen, wolframalpha, time
+
+
+# Functions:
+
+tell time and Date
+Tells Jokes
+Tells about CPU nd Bttery
+Playes Songs
+Sends Email
+Searches from Google
+Searches from youtube
+Searches from chrome
+Opens Applications like Word and Chrome
